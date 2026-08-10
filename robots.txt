@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: avtomaty-na-dengi-ot-50.github.io
+Sitemap: https://avtomaty-na-dengi-ot-50.github.io/sitemap.xml
